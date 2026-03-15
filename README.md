@@ -1,59 +1,39 @@
-# Level1-Task3-Temperature-converter
-Oasis Infobyte intership- project-3
+# 🌡 Temperature Converter Web App
 
-
-# 🌡️ Temperature Converter Website
-
-This project is a simple and interactive Temperature Converter Web Application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-
-The website provides a clean and user friendly interface where users can enter a temperature value, choose the unit, and instantly view the converted result.
-
-This project was developed as part of my Web Development Internship at Oasis Infobyte.
-
----
+A simple and user friendly **Temperature Converter Web Application** built using **HTML, CSS, and JavaScript**.
+This application allows users to easily convert temperatures between **Celsius, Fahrenheit, and Kelvin** with a clean and responsive interface.
 
 ## ✨ Features
 
-🌡️ Convert temperature between Celsius and Fahrenheit  
-❄️ Optional conversion with Kelvin  
-🧮 Input validation to ensure only numbers are entered  
-⚡ Instant temperature conversion  
-🎨 Clean and modern user interface  
-📱 Responsive design for desktop and mobile devices
+* 🔁 Convert temperature between **Celsius, Fahrenheit, and Kelvin**
+* ⚡ Instant conversion using JavaScript
+* 🎨 Simple and clean user interface
+* 📱 Responsive design for different devices
+* 🖱 Easy input and quick result display
 
----
+## 🛠 Technologies Used
 
-## 🛠️ Technologies Used
-
-💻 HTML  
-🎨 CSS  
-⚡ JavaScript
-
----
-
-## ⚙️ How It Works
-
-1. Enter a temperature value in the input field.  
-2. Select the temperature unit (Celsius, Fahrenheit, or Kelvin).  
-3. Click the **Convert** button.  
-4. The converted temperature will be displayed instantly with the correct unit.
-
----
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
 ## 🎯 Purpose of the Project
 
-The purpose of this project is to practice JavaScript logic, input validation, and DOM manipulation while building a simple and useful web application.
+The purpose of this project is to understand how **JavaScript can be used to perform calculations and update results dynamically** while designing a simple and interactive user interface.
 
-It also helps improve skills in designing interactive and responsive web interfaces.
+## 💼 Internship
 
----
+This project was developed as part of my **Web Development Internship at Oasis Infobyte**, where I worked on creating practical web applications and improving my frontend development skills.
 
-## 👨‍💻 Author
+## 📚 What I Learned
 
-Kaviya B  
-Computer Science Student  
-Aspiring Software Developer
+* 🧩 Structuring web pages using HTML
+* 🎨 Styling layouts with CSS
+* ⚡ Implementing temperature conversion logic using JavaScript
+* 📐 Handling user input and displaying dynamic results
 
----
+## 👩‍💻 Author
 
-⭐ Feel free to explore the project and share your feedback!
+**Kaviya B**
+🎓 Computer Science Student
+💻 Aspiring Software Developer
